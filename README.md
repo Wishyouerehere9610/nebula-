@@ -8,6 +8,7 @@
 * git branch -a
 * git checkout -b branchname
 * git push -u origin branchname
+* git checkout branchname
 
 # Terminal   
 * Perminssion Denied 问题先试试+sudo
