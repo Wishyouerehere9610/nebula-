@@ -4,9 +4,9 @@
 
 
 ### Git
-## git branch
-## git branch -a
-## git checkout -b <branchname>
-## git push -u origin <branchname>
+* git branch
+* git branch -a
+* git checkout -b <branchname>
+* git push -u origin <branchname>
 
   
