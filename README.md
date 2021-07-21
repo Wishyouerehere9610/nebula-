@@ -9,4 +9,5 @@
 * git checkout -b branchname
 * git push -u origin branchname
 
-  
+# Terminal   
+* Perminssion Denied 问题先试试+sudo
