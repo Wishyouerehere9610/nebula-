@@ -12,3 +12,7 @@
 
 # Terminal   
 * Perminssion Denied 问题先试试+sudo
+
+# Permission denined when building proejct
+* dongziming@dongzimingdeMacBook-Pro aiworks % sudo chmod -R 777 *
+
