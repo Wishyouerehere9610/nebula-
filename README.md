@@ -9,6 +9,7 @@
 * git checkout -b branchname
 * git push -u origin branchname
 * git checkout branchname
+* you are not allowed to push code to this project, git 权限不是developer是reporter
 
 # Terminal   
 * Perminssion Denied 问题先试试+sudo
