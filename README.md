@@ -17,3 +17,5 @@
 # Permission denined when building proejct
 * dongziming@dongzimingdeMacBook-Pro aiworks % sudo chmod -R 777 *
 
+# mvn clean package完文件全变蓝
+* git stash
