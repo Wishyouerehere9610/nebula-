@@ -13,7 +13,7 @@
 
 
 ## Git rebase流程
-* 1.git add. 2.git commit -m "commit message" 3.git push origin dev 4.git rebase -i HEAD~3(数字代表合几个commit）5.然后把第一个commit保留pick开头，把下面的commit开头改为s（后面加空格）6.git log看看刚才合并的commit是不是在一个 7.git push -f origin dev_userinfo (强行push）8.发现behind落后dev分支 9.git checkout dev/ git pull origin dev 10.git checkout dev_userinfo/ git pull from origin. 11.放弃rebase的话, git rebase --abort
+* 1.git add. 2.git commit -m "commit message" 3.git rebase 4.git rebase -i HEAD~3(数字代表合几个commit）5.然后把第一个commit保留pick开头，把下面的commit开头改为s（后面加空格）6.git log看看刚才合并的commit是不是在一个 7.git push -f origin dev_userinfo (强行push）8.发现behind落后dev分支 9.git checkout dev/ git pull origin dev 10.git checkout dev_userinfo/ git pull from origin. 11.放弃rebase的话, git rebase --abort
 
 
 # Terminal   
