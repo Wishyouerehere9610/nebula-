@@ -23,4 +23,5 @@
 * dongziming@dongzimingdeMacBook-Pro aiworks % sudo chmod -R 777 *
 
 # mvn clean package完文件全变蓝
-* git stash
+* git stash 
+* 记得clear stash！
