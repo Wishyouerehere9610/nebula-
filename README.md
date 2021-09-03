@@ -23,6 +23,6 @@
 # Permission denined when building proejct
 * dongziming@dongzimingdeMacBook-Pro aiworks % sudo chmod -R 777 *
 
-# mvn clean package完文件全变蓝然后先跑通服务器再
+# mvn clean package完文件全变蓝然后先跑通服务器再stash(试试先进root再mvn clean package)
 * git stash 
 * 记得clear stash！
