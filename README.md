@@ -27,4 +27,4 @@
 * 用户进root: sudo su -
 * root切换到用户: sudo su - dongziming 
 * git stash 
-* 记得stash clear
+* 记得 git stash clear
