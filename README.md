@@ -24,8 +24,10 @@
 * dongziming@dongzimingdeMacBook-Pro aiworks % sudo chmod -R 777 *
 
 # mvn clean package完文件全变蓝然后先跑通服务器再stash(试试先进root再mvn clean package)
-<!-- * 用户进root: sudo su -
-* root切换到用户: sudo su - dongziming  -->
+* 用户进root: sudo su -
+* root切换到用户: sudo su - dongziming 
 * git stash 
 * 记得 git stash clear
 
+# 解决循环依赖的方法
+* 在service上面加@Lazy注释
