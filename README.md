@@ -35,5 +35,5 @@
 # SSL certificate problem: certificate has expired 
 * git config --global user.name [username]
 * git config --global user.email [email]
-* git config --lobal http.sslVerify false
+* git config --global http.sslVerify false
 * 可以正常pull了
