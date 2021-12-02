@@ -31,3 +31,9 @@
 
 # 解决循环依赖的方法
 * 在service上面加@Lazy注释
+
+# SSL certificate problem: certificate has expired 
+* git config --global user.name [username]
+* git config --global user.email [email]
+* git config --lobal http.sslVerify false
+* 可以正常pull了
