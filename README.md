@@ -24,8 +24,11 @@
 * dongziming@dongzimingdeMacBook-Pro aiworks % sudo chmod -R 777 *
 
 # kill进程
+** kill falsk 进程
 * ps aux|grep flask 
 * kill -9 进程号
+** kill java 进程
+* jps + kill -9 进程号
 
 
 
