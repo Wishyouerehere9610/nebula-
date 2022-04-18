@@ -31,6 +31,9 @@
 ** kill java 进程
 * jps + kill -9 进程号
 
+# uwsgi flask
+* sh start.sh / sh stop.sh
+* 看uwsgi_log tail -f uwsgi.log 
 
 
 # mvn clean package完文件全变蓝然后先跑通服务器再stash(试试先进root再mvn clean package)
