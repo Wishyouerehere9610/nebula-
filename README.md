@@ -17,6 +17,11 @@
 * https://juejin.cn/post/6844903600976576519
 
 
+# IntelliJ IDEA
+* step over 进行下一行
+* step into 进入这一行的方法
+* resume program 进入下一个断点
+
 # Terminal   
 * Perminssion Denied 问题先试试+sudo
 
