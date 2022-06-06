@@ -37,22 +37,22 @@
 ## Permission denined when building proejct
 * dongziming@dongzimingdeMacBook-Pro aiworks % sudo chmod -R 777 *
 
+## 解决循环依赖的方法
+* 在service上面加@Lazy注释
+
 
 # 服务器问题
-* kill进程
-** kill falsk 进程
-** ps aux|grep flask 
-** kill -9 进程号
+## kill进程
+* kill falsk 进程
+* ps aux|grep flask 
+* kill -9 进程号
 
 * kill java 进程
 ** jps + kill -9 进程号
 
-# uwsgi flask
+## uwsgi flask
 * sh start.sh / sh stop.sh
 * 看uwsgi_log tail -f uwsgi.log 
 
 
-
-## 解决循环依赖的方法
-* 在service上面加@Lazy注释
 
