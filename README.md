@@ -43,11 +43,11 @@
 
 # 服务器问题
 ## kill进程
-* kill falsk 进程
+### kill falsk 进程
 * ps aux|grep flask 
 * kill -9 进程号
 
-* kill java 进程
+### kill java 进程
 ** jps + kill -9 进程号
 
 ## uwsgi flask
