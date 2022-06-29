@@ -48,7 +48,8 @@
 * kill -9 进程号
 
 ### kill java 进程
-** jps + kill -9 进程号
+* jps（查看java进程）
+* kill -9 进程号
 
 ## uwsgi flask
 * sh start.sh / sh stop.sh
