@@ -54,5 +54,10 @@
 * sh start.sh / sh stop.sh
 * 看uwsgi_log tail -f uwsgi.log 
 
+# 自定义多条指令
+vim ~/.bashrc
+alias test='cd desktop;cd foldername'
+source ~/.bashrc
+
 
 
